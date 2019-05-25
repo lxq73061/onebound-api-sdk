@@ -3,5 +3,5 @@
     "type": "library",
     "require": {
         "php": ">=5.4"
-     },
+     }
 }
